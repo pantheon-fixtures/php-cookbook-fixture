@@ -14,35 +14,35 @@ module PantheonPHP
     @versions << Version.new(
       '7.2',
       '20170718',
-      '7.2.6-20180525',
+      '7.2.8-20180719',
       apm_version: '2'
     )
 
     @versions << Version.new(
       '7.1',
       '20160303',
-      '7.1.18-20180525',
+      '7.1.20-20180719',
       apm_version: '2'
     )
 
     @versions << Version.new(
       '7.0',
       '20151012',
-      '7.0.30-20180426',
+      '7.0.31-20180719',
       apm_version: '2'
     )
 
     @versions << Version.new(
       '5.6',
       '20131226',
-      '5.6.36-20180427',
+      '5.6.37-20180723',
       apm_version: '2'
     )
 
     @versions << Version.new(
       '5.5',
       '20121212',
-      '5.5.24-20150427',
+      '5.5.38-20180427',
       apm_version: '1'
     )
 
