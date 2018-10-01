@@ -14,14 +14,14 @@ module PantheonPHP
     @versions << Version.new(
       '7.2',
       '20170718',
-      '7.2.6-20180525',
+      '7.2.9-20181001',
       apm_version: '2'
     )
 
     @versions << Version.new(
       '7.1',
       '20160303',
-      '7.1.18-20180525',
+      '7.1.21-20181001',
       apm_version: '2'
     )
 
